@@ -7,7 +7,7 @@ Important notes:
 Steps to run the project:
 1- Run the back-end logic first in your IDE, then run this interface while the back-end is running.
 
-3- In case you want to add a new product in the website, do not leave any field empty!.
+3- In case you want to add a new product in the application website, do not leave any field empty!.
 
 4- When uploading pictures, only JPG/JPEG format is acceptable.
 
