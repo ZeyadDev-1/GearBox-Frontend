@@ -1,3 +1,5 @@
+[Credit goes to Telusko for sharing this frontend with backend developers]
+
 Important notes:
 
 - The back-end logic: (https://github.com/ZeyadDev-1/GearBox-Backend.git)
@@ -6,6 +8,11 @@ Important notes:
 
 Steps to run the project:
 1- Run the back-end logic first in your IDE, then run this interface while the back-end is running.
+
+2-Steps to run the project throw console:
+*Navigate to the project file.
+*Enter "npm i" command.
+*Enter "npm run dev" command.
 
 3- In case you want to add a new product in the web application, do not leave any field empty!.
 
